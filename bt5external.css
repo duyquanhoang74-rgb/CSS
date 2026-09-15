@@ -1,0 +1,16 @@
+h1 {
+    color: orange;
+}
+.text-blue {
+    color: blue;
+}
+.text-red {
+    color: red;
+}
+.tip {
+    background-color: beige;
+}
+.tip b {
+    color: orange;
+    padding: 0.5 px;
+}
